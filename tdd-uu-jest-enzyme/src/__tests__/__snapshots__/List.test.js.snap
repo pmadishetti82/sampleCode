@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing the traversion of components testing snapshots should take a snap shot of List with 3 ListItems 1`] = `
+<ul
+  className="list-items"
+>
+  <li
+    className="item"
+  >
+    one
+  </li>
+  <li
+    className="item"
+  >
+    two
+  </li>
+  <li
+    className="item"
+  >
+    three
+  </li>
+</ul>
+`;
+
+exports[`Testing the traversion of components testing snapshots should take a snapshot of ListItem with 1 item 1`] = `
+<li
+  className="item"
+>
+  stuff
+</li>
+`;
